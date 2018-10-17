@@ -1,0 +1,13 @@
+SAproject\demo\Controller\RoomController.class
+SAproject\demo\entity\Subject.class
+SAproject\demo\DemoApplication.class
+SAproject\demo\Repository\StudyTimeTableRepository.class
+SAproject\demo\Repository\SubjectRepository.class
+SAproject\demo\Controller\StudyTimeTableController.class
+SAproject\demo\entity\Teacher.class
+SAproject\demo\Controller\TeacherController.class
+SAproject\demo\Controller\SubjectsController.class
+SAproject\demo\Repository\TeacherRepository.class
+SAproject\demo\entity\Room.class
+SAproject\demo\Repository\RoomRepository.class
+SAproject\demo\entity\Studytimetable.class
